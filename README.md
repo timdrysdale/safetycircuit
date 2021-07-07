@@ -1,6 +1,10 @@
 # safetycircuit
 Design for a physical circuit to protect hardware that is being controlled by learner programmers
 
+## Doc status
+
+2021 July 7 - Rough draft of the motivation/requirements (subject to major change)
+
 ## Motivation
 We want to create open-ended remote laboratory experiences for students capable of undertaking embedded systems programming, with a greater or lesser amount of help from the experimental interface.
 
